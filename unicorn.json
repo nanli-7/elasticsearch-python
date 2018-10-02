@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"index": {"_type": "default", "_id": 1, "_index": "unicorn"}}
 {"Select Investors": "Lowercase Capital, Benchmark Capital, Google Ventures", "Country": "United States", "Company": "Uber", "Date Joined": "8/23/2013", "Industry": "On-Demand", "Valuation ($B)": "72"}
 {"index": {"_type": "default", "_id": 2, "_index": "unicorn"}}
@@ -518,3 +519,528 @@
 {"Select Investors": "Gemini Israel Ventures, Insight Venture Partners, Giza Venture Capital", "Country": "United States", "Company": "WalkMe", "Date Joined": "9/20/2018", "Industry": "Sales Tech", "Valuation ($B)": "1"}
 {"index": {"_type": "default", "_id": 260, "_index": "unicorn"}}
 {"Select Investors": "Greylock Partners, capitalG, Y Combinator", "Country": "United States", "Company": "Convoy", "Date Joined": "9/21/2018", "Industry": "Supply Chain", "Valuation ($B)": "1"}
+||||||| merged common ancestors
+=======
+{"index": {"_type": "default", "_id": 1, "_index": "unicorn"}}
+{"Select Investors": "Lowercase Capital, Benchmark Capital, Google Ventures", "Country": "United States", "Company": "Uber", "Date Joined": "8/23/2013", "Industry": "On-Demand", "Valuation ($B)": "72"}
+{"index": {"_type": "default", "_id": 2, "_index": "unicorn"}}
+{"Select Investors": "Matrix Partners, Tiger Global Management, Softbank Corp.,", "Country": "China", "Company": "Didi Chuxing ", "Date Joined": "12/31/2014", "Industry": "On-Demand", "Valuation ($B)": "56"}
+{"index": {"_type": "default", "_id": 3, "_index": "unicorn"}}
+{"Select Investors": "General Catalyst Partners, Andreessen Horowitz, ENIAC Ventures", "Country": "United States", "Company": "Airbnb", "Date Joined": "7/26/2011", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "29.3"}
+{"index": {"_type": "default", "_id": 4, "_index": "unicorn"}}
+{"Select Investors": "Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures", "Country": "United States", "Company": "SpaceX", "Date Joined": "12/1/2012", "Industry": "Other Transportation", "Valuation ($B)": "21.5"}
+{"index": {"_type": "default", "_id": 5, "_index": "unicorn"}}
+{"Select Investors": "RRE Ventures, Founders Fund, In-Q-Tel", "Country": "United States", "Company": "Palantir Technologies", "Date Joined": "5/5/2011", "Industry": "Big Data", "Valuation ($B)": "20"}
+{"index": {"_type": "default", "_id": 6, "_index": "unicorn"}}
+{"Select Investors": "T. Rowe Price, Benchmark Capital, SoftBank Group", "Country": "United States", "Company": "WeWork", "Date Joined": "2/3/2014", "Industry": "Facilities", "Valuation ($B)": "20"}
+{"index": {"_type": "default", "_id": 7, "_index": "unicorn"}}
+{"Select Investors": "Khosla Ventures, Lowercase Capital, capitalG", "Country": "United States", "Company": "Stripe", "Date Joined": "1/23/2014", "Industry": "Fintech", "Valuation ($B)": "20"}
+{"index": {"_type": "default", "_id": 8, "_index": "unicorn"}}
+{"Select Investors": "Ping An Insurance CDH Investments, Bank of China", "Country": "China", "Company": "Lu.com", "Date Joined": "12/26/2014", "Industry": "Fintech", "Valuation ($B)": "18.5"}
+{"index": {"_type": "default", "_id": 9, "_index": "unicorn"}}
+{"Select Investors": "Tiger Global Management", "Country": "United States", "Company": "JUUL Labs", "Date Joined": "12/20/2017", "Industry": "Consumer Electronics", "Valuation ($B)": "15"}
+{"index": {"_type": "default", "_id": 10, "_index": "unicorn"}}
+{"Select Investors": "Andreessen Horowitz, Bessemer Venture Partners, Firstmark Capital", "Country": "United States", "Company": "Pinterest", "Date Joined": "5/19/2012", "Industry": "Social", "Valuation ($B)": "12.3"}
+{"index": {"_type": "default", "_id": 11, "_index": "unicorn"}}
+{"Select Investors": "Coatue Management, Sequoia Capital China, IDG Capital", "Country": "China", "Company": "Bitmain Technologies", "Date Joined": "7/6/2018", "Industry": "Blockchain", "Valuation ($B)": "12"}
+{"index": {"_type": "default", "_id": 12, "_index": "unicorn"}}
+{"Select Investors": "Founders Fund, Mayfield Fund, capitalG", "Country": "United States", "Company": "Lyft", "Date Joined": "3/12/2015", "Industry": "On-Demand", "Valuation ($B)": "11.5"}
+{"index": {"_type": "default", "_id": 13, "_index": "unicorn"}}
+{"Select Investors": "GGV Capital, Vertex Venture Holdings, Softbank Group", "Country": "Singapore", "Company": "GrabTaxi", "Date Joined": "12/4/2014", "Industry": "On-Demand", "Valuation ($B)": "11"}
+{"index": {"_type": "default", "_id": 14, "_index": "unicorn"}}
+{"Select Investors": "Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group", "Country": "United Kingdom", "Company": "Global Switch", "Date Joined": "12/22/2016", "Industry": "Computer Hardware & Services", "Valuation ($B)": "11.08"}
+{"index": {"_type": "default", "_id": 15, "_index": "unicorn"}}
+{"Select Investors": "Blackstone Group, Koch Industries", "Country": "United States", "Company": "Infor", "Date Joined": "11/16/2016", "Industry": "Internet Software & Services", "Valuation ($B)": "10"}
+{"index": {"_type": "default", "_id": 16, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, Sequoia Capital", "Country": "China", "Company": "DJI Innovations", "Date Joined": "5/6/2015", "Industry": "Hardware", "Valuation ($B)": "10"}
+{"index": {"_type": "default", "_id": 17, "_index": "unicorn"}}
+{"Select Investors": "Intel Capital, Sapphire Ventures, Alibaba Group", "Country": "India", "Company": "One97 Communications (operates Paytm)", "Date Joined": "5/12/2015", "Industry": "Fintech", "Valuation ($B)": "10"}
+{"index": {"_type": "default", "_id": 18, "_index": "unicorn"}}
+{"Select Investors": "Google Ventures, Institutional Venture Partners, Index Ventures", "Country": "United States", "Company": "Slack Technologies", "Date Joined": "10/31/2014", "Industry": "Internet Software & Services", "Valuation ($B)": "7.1"}
+{"index": {"_type": "default", "_id": 19, "_index": "unicorn"}}
+{"Select Investors": "SoftBankGroup,Blackrock, Alibaba Group", "Country": "India", "Company": "Snapdeal", "Date Joined": "5/21/2014", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "7"}
+{"index": {"_type": "default", "_id": 20, "_index": "unicorn"}}
+{"Select Investors": "Tencent, Baidu, Huasheng Capital", "Country": "China", "Company": "Lianjia (Homelink)", "Date Joined": "4/8/2016", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "5.8"}
+{"index": {"_type": "default", "_id": 21, "_index": "unicorn"}}
+{"Select Investors": "Softbank Group, CapitalG", "Country": "China", "Company": "Manbang Group", "Date Joined": "4/24/2018", "Industry": "Supply chain & Logistics", "Valuation ($B)": "6"}
+{"index": {"_type": "default", "_id": 22, "_index": "unicorn"}}
+{"Select Investors": "Alibaba Group, Boyu Capital, Borui Capital", "Country": "China", "Company": "EasyHome", "Date Joined": "2/12/2018", "Industry": "Retail", "Valuation ($B)": "5.7"}
+{"index": {"_type": "default", "_id": 23, "_index": "unicorn"}}
+{"Select Investors": "Technology Crossover Ventures, A&E Television Networks", "Country": "United States", "Company": "Vice Media", "Date Joined": "8/17/2013", "Industry": "Media", "Valuation ($B)": "5.7"}
+{"index": {"_type": "default", "_id": 24, "_index": "unicorn"}}
+{"Select Investors": "Google Ventures, Andreessen Horowitz, DST Global", "Country": "United States", "Company": "Robinhood", "Date Joined": "4/26/2017", "Industry": "Fintech", "Valuation ($B)": "5.6"}
+{"index": {"_type": "default", "_id": 25, "_index": "unicorn"}}
+{"Select Investors": "New Enterprise Associates, New Leaf Venture Partners, Charter Venture Capital", "Country": "United States", "Company": "Intarcia Therapeutics", "Date Joined": "4/1/2014", "Industry": "Healthcare", "Valuation ($B)": "5.5"}
+{"index": {"_type": "default", "_id": 26, "_index": "unicorn"}}
+{"Select Investors": "Goldman Sachs, capitalG, Pritzker Group Venture Capital", "Country": "United States", "Company": "Outcome Health", "Date Joined": "5/31/2017", "Industry": "Healthcare", "Valuation ($B)": "5"}
+{"index": {"_type": "default", "_id": 27, "_index": "unicorn"}}
+{"Select Investors": "CDH Investments, Goldstone Investments, Qiming Venture Partners", "Country": "China", "Company": "UBTECH Robotics", "Date Joined": "7/26/2016", "Industry": "Robotics", "Valuation ($B)": "5"}
+{"index": {"_type": "default", "_id": 28, "_index": "unicorn"}}
+{"Select Investors": "Andreessen Horowitz, Nor-Cal Invest, TPG Growth", "Country": "United States", "Company": "Tanium", "Date Joined": "3/31/2015", "Industry": "Cybersecurity", "Valuation ($B)": "5"}
+{"index": {"_type": "default", "_id": 29, "_index": "unicorn"}}
+{"Select Investors": "SoftBank Group, Sequoia Capital India,Lightspeed India Partners", "Country": "India", "Company": "Oyo Rooms", "Date Joined": "9/25/2018", "Industry": "Travel Tech", "Valuation ($B)": "5"}
+{"index": {"_type": "default", "_id": 30, "_index": "unicorn"}}
+{"Select Investors": "Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz", "Country": "United States", "Company": "Magic Leap", "Date Joined": "10/21/2014", "Industry": "VR/AR", "Valuation ($B)": "4.98"}
+{"index": {"_type": "default", "_id": 31, "_index": "unicorn"}}
+{"Select Investors": "SoftBank Group, Andreessen Horowitz, Temasek Holdings", "Country": "United States", "Company": "Fanatics", "Date Joined": "6/6/2012", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "4.5"}
+{"index": {"_type": "default", "_id": 32, "_index": "unicorn"}}
+{"Select Investors": "Star VC, IDG Capital, Infore Capital, Alibaba Group", "Country": "China", "Company": "SenseTime", "Date Joined": "7/11/2017", "Industry": "Computer Vision/ AI", "Valuation ($B)": "4.5"}
+{"index": {"_type": "default", "_id": 33, "_index": "unicorn"}}
+{"Select Investors": "Baseline Ventures, DCM Ventures, Institutional Venture Partners", "Country": "United States", "Company": "Social Finance (SoFi)", "Date Joined": "2/3/2015", "Industry": "Fintech", "Valuation ($B)": "4.5"}
+{"index": {"_type": "default", "_id": 34, "_index": "unicorn"}}
+{"Select Investors": "Evergrande Health Industry Group, Jia Yueting", "Country": "United States", "Company": "Faraday Future", "Date Joined": "4/19/2018", "Industry": "AutoTech", "Valuation ($B)": "4.4"}
+{"index": {"_type": "default", "_id": 35, "_index": "unicorn"}}
+{"Select Investors": "Founders Fund, Thrive Capital, Wellington Management", "Country": "United States", "Company": "Compass", "Date Joined": "8/31/2016", "Industry": "Real Estate", "Valuation ($B)": "4.4"}
+{"index": {"_type": "default", "_id": 36, "_index": "unicorn"}}
+{"Select Investors": "Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund", "Country": "United States", "Company": "Instacart", "Date Joined": "12/30/2014", "Industry": "On-Demand", "Valuation ($B)": "4.35"}
+{"index": {"_type": "default", "_id": 37, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, SoftBank Group, Sequoia Capital", "Country": "India", "Company": "Olacabs", "Date Joined": "10/27/2014", "Industry": "On-demand", "Valuation ($B)": "4.3"}
+{"index": {"_type": "default", "_id": 38, "_index": "unicorn"}}
+{"Select Investors": "Formation 8", "Country": "South Korea", "Company": "Yello Mobile", "Date Joined": "11/11/2014", "Industry": "Mobile Software & Services", "Valuation ($B)": "4"}
+{"index": {"_type": "default", "_id": 39, "_index": "unicorn"}}
+{"Select Investors": "New Enterprise Associates, Sequoia Capital, Comcast Ventures", "Country": "United States", "Company": "Houzz", "Date Joined": "9/30/2014", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "4"}
+{"index": {"_type": "default", "_id": 40, "_index": "unicorn"}}
+{"Select Investors": "Softbank Group, Sequoia Capital, Khosla Ventures", "Country": "United States", "Company": "DoorDash", "Date Joined": "3/1/2018", "Industry": "Food Delivery", "Valuation ($B)": "4"}
+{"index": {"_type": "default", "_id": 41, "_index": "unicorn"}}
+{"Select Investors": "Morningside Venture Capital, Foxconn Technology Company, Alibaba Group", "Country": "China", "Company": "XPeng Motors", "Date Joined": "8/2/2018", "Industry": "Automobile", "Valuation ($B)": "3.65"}
+{"index": {"_type": "default", "_id": 42, "_index": "unicorn"}}
+{"Select Investors": "Digital Sky Technologies, Piton Capital, DN Capital, SoftBank Group", "Country": "Germany", "Company": "Auto1 Group", "Date Joined": "8/3/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "3.54"}
+{"index": {"_type": "default", "_id": 43, "_index": "unicorn"}}
+{"Select Investors": "EQT Partners", "Country": "Germany", "Company": "Otto Bock HealthCare", "Date Joined": "6/24/2017", "Industry": "Healthcare", "Valuation ($B)": "3.5"}
+{"index": {"_type": "default", "_id": 44, "_index": "unicorn"}}
+{"Select Investors": "Felicis Ventures, SV Angel, Founders Fund", "Country": "United States", "Company": "Credit Karma", "Date Joined": "9/29/2014", "Industry": "Fintech", "Valuation ($B)": "3.5"}
+{"index": {"_type": "default", "_id": 45, "_index": "unicorn"}}
+{"Select Investors": "Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.", "Country": "United States", "Company": "Indigo Agriculture", "Date Joined": "9/26/2017", "Industry": "Biotech", "Valuation ($B)": "3.5"}
+{"index": {"_type": "default", "_id": 46, "_index": "unicorn"}}
+{"Select Investors": "China Environmental Protection Industry, China Fortune Ocean", "Country": "China", "Company": "Youxia Motors", "Date Joined": "4/2/2018", "Industry": "Automobile", "Valuation ($B)": "3.35"}
+{"index": {"_type": "default", "_id": 47, "_index": "unicorn"}}
+{"Select Investors": "Kohlberg Kravis Roberts & Co., Old Mutual Global Investors, Artemis Investment Management", "Country": "United Kingdom", "Company": "The Hut Group", "Date Joined": "08/13/2017", "Industry": "eCommerce ", "Valuation ($B)": "3.25"}
+{"index": {"_type": "default", "_id": 48, "_index": "unicorn"}}
+{"Select Investors": "BoxGroup, Formation8, Khosla Ventures", "Country": "United States", "Company": "Oscar Health Insurance Co.", "Date Joined": "4/20/2015", "Industry": "Healthcare", "Valuation ($B)": "3.2"}
+{"index": {"_type": "default", "_id": 49, "_index": "unicorn"}}
+{"Select Investors": "AID Partners, Draper Fisher Jurvetson", "Country": "United States", "Company": "Zoox", "Date Joined": "5/27/2016", "Industry": "Auto Tech", "Valuation ($B)": "3.2"}
+{"index": {"_type": "default", "_id": 50, "_index": "unicorn"}}
+{"Select Investors": "Morningside Venture Capital, Sequoia Capital, Baidu", "Country": "China", "Company": "Kuaishou", "Date Joined": "1/1/2015", "Industry": "Social", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 51, "_index": "unicorn"}}
+{"Select Investors": "Ceyuan Ventures, QiMing Venture Partners, Temasek Holdings", "Country": "China", "Company": "VANCL", "Date Joined": "12/14/2010", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 52, "_index": "unicorn"}}
+{"Select Investors": "Flagship Ventures, Invus Group, Wellington Management", "Country": "United States", "Company": "Moderna", "Date Joined": "12/19/2014", "Industry": "Healthcare", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 53, "_index": "unicorn"}}
+{"Select Investors": "Founders Fund, GGV Capital, Digital Sky Technologies", "Country": "United States", "Company": "ContextLogic (dba. Wish)", "Date Joined": "5/18/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 54, "_index": "unicorn"}}
+{"Select Investors": "CPP Investment Board", "Country": "United Kingdom", "Company": "BGL Group", "Date Joined": "11/24/2017", "Industry": "Fintech", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 55, "_index": "unicorn"}}
+{"Select Investors": "General Catalyst, Digital Currency Group, Accel", "Country": "United States", "Company": "Circle Internet Financial", "Date Joined": "5/15/2018", "Industry": "Fintech", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 56, "_index": "unicorn"}}
+{"Select Investors": "GGV Capital, ZhenFund, Tencent", "Country": "China", "Company": "Xiaohongshu", "Date Joined": "3/31/2016", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 57, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital, iGlobe Partners, DFJ Growth", "Country": "United States", "Company": "Unity Technologies", "Date Joined": "7/13/2016", "Industry": "Gaming", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 58, "_index": "unicorn"}}
+{"Select Investors": "Warbug Pincus, capitalG, Accel Partners", "Country": "United States", "Company": "CrowdStrike", "Date Joined": "5/17/2017", "Industry": "Cybersecurity", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 59, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, Tencent Holdings, Sinovation Ventures", "Country": "China", "Company": "Vipkid", "Date Joined": "8/23/2017", "Industry": "Edtech", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 60, "_index": "unicorn"}}
+{"Select Investors": "Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund", "Country": "China", "Company": "SouChe Holdings", "Date Joined": "11/1/2017", "Industry": "AutoTech", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 61, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, capitalG, Earlybrid Venture Capital, Kleiner Perkins Caufield & Byers", "Country": "United States", "Company": "UiPath", "Date Joined": "3/2/2018", "Industry": "Robotic Process Automation", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 62, "_index": "unicorn"}}
+{"Select Investors": "Nintendo, Google, Pokemon Company International, Spark Capital", "Country": "United States", "Company": "Niantic", "Date Joined": "11/24/2017", "Industry": "AR/VR", "Valuation ($B)": "3"}
+{"index": {"_type": "default", "_id": 63, "_index": "unicorn"}}
+{"Select Investors": "SK Group, GF Investments, China Minsheng Banking Corp.", "Country": "China", "Company": " ESR Cayman (e-Shang Redwood)", "Date Joined": "7/26/2017", "Industry": "Real Estate", "Valuation ($B)": "2.8"}
+{"index": {"_type": "default", "_id": 64, "_index": "unicorn"}}
+{"Select Investors": "Tiger Global Management, Blue Lake Capital, ZhenFund", "Country": "China", "Company": "Meicai", "Date Joined": "1/11/2018", "Industry": "Food & Grocery", "Valuation ($B)": "2.8"}
+{"index": {"_type": "default", "_id": 65, "_index": "unicorn"}}
+{"Select Investors": "Institutional Venture Partners, Sequoia Capital, General Atlantic", "Country": "Sweden", "Company": "Klarna", "Date Joined": "12/12/2011", "Industry": "Fintech", "Valuation ($B)": "2.5"}
+{"index": {"_type": "default", "_id": 66, "_index": "unicorn"}}
+{"Select Investors": "Rhone Capital", "Country": "Malta", "Company": "VistaJet", "Date Joined": "8/23/2017", "Industry": "On-demand", "Valuation ($B)": "2.5"}
+{"index": {"_type": "default", "_id": 67, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, Insight Venture Partners, Sequoia Capital", "Country": "United States", "Company": "Qualtrics", "Date Joined": "9/24/2014", "Industry": "Big Data", "Valuation ($B)": "2.5"}
+{"index": {"_type": "default", "_id": 68, "_index": "unicorn"}}
+{"Select Investors": "Tencent Holdings, Sinovation Ventures, Qiming Venture Partners ", "Country": "China", "Company": "Zhihu", "Date Joined": "1/12/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "2.5"}
+{"index": {"_type": "default", "_id": 69, "_index": "unicorn"}}
+{"Select Investors": "Kleiner Perkins Caufield & Byers, Amazon, Merck & Co.", "Country": "United States", "Company": "GRAIL", "Date Joined": "3/1/2017", "Industry": "Genomics", "Valuation ($B)": "2.46"}
+{"index": {"_type": "default", "_id": 70, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, Banyan Capital", "Country": "China", "Company": "YITU Technology", "Date Joined": "3/8/2018", "Industry": "Computer Vision", "Valuation ($B)": "2.37"}
+{"index": {"_type": "default", "_id": 71, "_index": "unicorn"}}
+{"Select Investors": "Revolution, New Enterprise Associates, Caterpillar", "Country": "United States", "Company": "Uptake", "Date Joined": "10/27/2015", "Industry": "Big Data", "Valuation ($B)": "2.3"}
+{"index": {"_type": "default", "_id": 72, "_index": "unicorn"}}
+{"Select Investors": "Clermont Group, Coltrane Asset Management, Toscafund Asset Management", "Country": "United Kingdom", "Company": "ACORN OakNorth", "Date Joined": "10/12/2017", "Industry": "Fintech", "Valuation ($B)": "2.3"}
+{"index": {"_type": "default", "_id": 73, "_index": "unicorn"}}
+{"Select Investors": "General Atlantic", "Country": "Germany", "Company": "NuCom Group", "Date Joined": "2/22/2018", "Industry": "Management & Strategy Consulting", "Valuation ($B)": "2.2"}
+{"index": {"_type": "default", "_id": 74, "_index": "unicorn"}}
+{"Select Investors": "Alibaba Group, Matric Partners China, Jumei International Holdings ", "Country": "United States", "Company": "Babytree", "Date Joined": "5/28/2018", "Industry": "Kids and Baby Tech", "Valuation ($B)": "2.2"}
+{"index": {"_type": "default", "_id": 75, "_index": "unicorn"}}
+{"Select Investors": "Hillhouse Capital Management, and Tencent Holdings", "Country": "China", "Company": "MINISO Life", "Date Joined": "9/30/2018", "Industry": "Retail", "Valuation ($B)": "2.2"}
+{"index": {"_type": "default", "_id": 76, "_index": "unicorn"}}
+{"Select Investors": "Goldman Sachs, JERA, Asian Development Bank", "Country": "India", "Company": "ReNew Power Ventures", "Date Joined": "2/14/2017", "Industry": "Energy & Utilities", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 77, "_index": "unicorn"}}
+{"Select Investors": "Global Founders Capital, East Ventures, Expedia Inc.", "Country": "Indonesia", "Company": "Traveloka", "Date Joined": "7/28/2017", "Industry": "TravelTech", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 78, "_index": "unicorn"}}
+{"Select Investors": "Zheshang Venture Capital, GP Capital, Western Capital Management", "Country": "China", "Company": "Huimin", "Date Joined": "9/5/2016", "Industry": "On-Demand", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 79, "_index": "unicorn"}}
+{"Select Investors": "RRE Ventures, Tiger Global, August Capital", "Country": "United States", "Company": "Avant", "Date Joined": "9/30/2015", "Industry": "Fintech", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 80, "_index": "unicorn"}}
+{"Select Investors": "L Capital Partners", "Country": "China", "Company": "Trendy Group International", "Date Joined": "2/13/2012", "Industry": "Clothing & Accessories", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 81, "_index": "unicorn"}}
+{"Select Investors": "Tencent, iDreamSky Technology, GGV Capital", "Country": "China", "Company": "Weiying", "Date Joined": "11/17/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 82, "_index": "unicorn"}}
+{"Select Investors": "Andreessen Horowitz, Khosla Ventures, Singapore Wealth Fund", "Country": "United States", "Company": "Affirm", "Date Joined": "12/11/2017", "Industry": "Fintech", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 83, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital, Redpoint e.ventures, Kaszek Ventures", "Country": "Brazil", "Company": "Nubank", "Date Joined": "3/1/2018", "Industry": "Fintech", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 84, "_index": "unicorn"}}
+{"Select Investors": "Alibaba Entrepreneurs Fund, CAS Investment Management Co., Lenovo Ventures Group", "Country": "China", "Company": "Cambricon", "Date Joined": "8/18/2017", "Industry": "Chips & Semiconductors", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 85, "_index": "unicorn"}}
+{"Select Investors": "Toyota Motor Corporation, Mizuho Financial Group, FANUC", "Country": "Japan", "Company": "Preferred Networks", "Date Joined": "5/17/2018", "Industry": "Internet Software & Services", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 86, "_index": "unicorn"}}
+{"Select Investors": "Andreessen Horowitz, SoftBank Group, Temasek Holdings", "Country": "United Kingdom", "Company": "Improbable", "Date Joined": "5/12/2017", "Industry": "AR/VR", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 87, "_index": "unicorn"}}
+{"Select Investors": "K1 Capital, Francisco Partners, Neuberger Berman", "Country": "United States", "Company": "LegalZoom", "Date Joined": "7/31/2018", "Industry": "RegTech", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 88, "_index": "unicorn"}}
+{"Select Investors": "New Enterprise Associates, T. Rowe Associates, Lightbank", "Country": "United States", "Company": "Tempus Labs", "Date Joined": "3/21/2018", "Industry": "Robotic Process Automation", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 89, "_index": "unicorn"}}
+{"Select Investors": "Norwest Venture Partners, New Enterprise Associates, Khosla Ventures", "Country": "United States", "Company": "OpenDoor Labs", "Date Joined": "11/30/2016", "Industry": "Real Estate", "Valuation ($B)": "2"}
+{"index": {"_type": "default", "_id": 90, "_index": "unicorn"}}
+{"Select Investors": "Y Combinator, Matrix Partners, Benchmark", "Country": "United States", "Company": "Quora", "Date Joined": "4/21/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1.8"}
+{"index": {"_type": "default", "_id": 91, "_index": "unicorn"}}
+{"Select Investors": "Founders Fund, Khosla Ventures, Goldman Sachs", "Country": "United States", "Company": "Zocdoc", "Date Joined": "8/20/2015", "Industry": "Healthcare", "Valuation ($B)": "1.8"}
+{"index": {"_type": "default", "_id": 92, "_index": "unicorn"}}
+{"Select Investors": "Azure Capital Partners, Battery Ventures, Intel Capital", "Country": "United States", "Company": "Sprinklr", "Date Joined": "3/31/2015", "Industry": "Internet Software & Services", "Valuation ($B)": "1.8"}
+{"index": {"_type": "default", "_id": 93, "_index": "unicorn"}}
+{"Select Investors": "Y Combinator, Sequoia Capital, Coatue Management", "Country": "United States", "Company": "reddit", "Date Joined": "7/31/2017", "Industry": "Social", "Valuation ($B)": "1.8"}
+{"index": {"_type": "default", "_id": 94, "_index": "unicorn"}}
+{"Select Investors": "General Atlantic, Goldman Sachs, New Enterprise Associates", "Country": "United States", "Company": "Automation Anywhere", "Date Joined": "7/2/2018", "Industry": "Robotics", "Valuation ($B)": "1.8"}
+{"index": {"_type": "default", "_id": 95, "_index": "unicorn"}}
+{"Select Investors": "CDIB Capital", "Country": "South Korea", "Company": "L&P Cosmetic", "Date Joined": "4/28/2017", "Industry": "Beauty & grooming", "Valuation ($B)": "1.78"}
+{"index": {"_type": "default", "_id": 96, "_index": "unicorn"}}
+{"Select Investors": "Iconiq Capital, K1 Capital, Salesforce Ventures", "Country": "United States", "Company": "Apttus", "Date Joined": "9/1/2015", "Industry": "Internet Software & Services", "Valuation ($B)": "1.75"}
+{"index": {"_type": "default", "_id": 97, "_index": "unicorn"}}
+{"Select Investors": "General Atlantic, Index Ventures, Accel Partners", "Country": "United States", "Company": "Squarespace", "Date Joined": "12/14/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1.7"}
+{"index": {"_type": "default", "_id": 98, "_index": "unicorn"}}
+{"Select Investors": "SV Angel, RRE Ventures, New Enterprise Associates ", "Country": "United States", "Company": "Buzzfeed", "Date Joined": "8/18/2015", "Industry": "Media", "Valuation ($B)": "1.7"}
+{"index": {"_type": "default", "_id": 99, "_index": "unicorn"}}
+{"Select Investors": "index Ventures, DST Global, Ribbit Capital", "Country": "United Kingdom", "Company": "Revolut", "Date Joined": "4/26/2018", "Industry": "Fintech", "Valuation ($B)": "1.7"}
+{"index": {"_type": "default", "_id": 100, "_index": "unicorn"}}
+{"Select Investors": "Google Ventures, Sequoia Capital, Wakefield Group", "Country": "United States", "Company": "Carbon3D", "Date Joined": "12/20/2017", "Industry": "Hardware", "Valuation ($B)": "1.7"}
+{"index": {"_type": "default", "_id": 101, "_index": "unicorn"}}
+{"Select Investors": "Ant Financial Services Group, Dahong Group, Sequoia Capital China", "Country": "China", "Company": "UCommune", "Date Joined": "1/18/2017", "Industry": "Real Estate", "Valuation ($B)": "1.7"}
+{"index": {"_type": "default", "_id": 102, "_index": "unicorn"}}
+{"Select Investors": "Microsoft Ventures, US Venture Partners, Kleiner Perkins Caufield & Byers", "Country": "United States", "Company": "Insidesales.com", "Date Joined": "4/28/2014", "Industry": "Big Data", "Valuation ($B)": "1.7"}
+{"index": {"_type": "default", "_id": 103, "_index": "unicorn"}}
+{"Select Investors": "Benchmark, Greylock Partners, Tencent Holdings", "Country": "United States", "Company": "Discord", "Date Joined": "04/20/2018", "Industry": "eSports", "Valuation ($B)": "1.65"}
+{"index": {"_type": "default", "_id": 104, "_index": "unicorn"}}
+{"Select Investors": "Kohlberg Kravis Roberts & Co., Ten Eleven Ventures, Summit Partners", "Country": "United Kingdom", "Company": "CureVac", "Date Joined": "5/15/2018", "Industry": "Cybersecurity", "Valuation ($B)": "1.65"}
+{"index": {"_type": "default", "_id": 105, "_index": "unicorn"}}
+{"Select Investors": "Northview Ventures, dievini Hopp BioTech Holding & Co.m Baillie Gifford & Co.", "Country": "Germany", "Company": "Darktrace", "Date Joined": "03/05/2015", "Industry": "Healthcare", "Valuation ($B)": "1.65"}
+{"index": {"_type": "default", "_id": 106, "_index": "unicorn"}}
+{"Select Investors": "GAM Holding", "Country": "United States", "Company": "Afiniti", "Date Joined": "4/14/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 107, "_index": "unicorn"}}
+{"Select Investors": "TPG Growth, Goldman Sachs", "Country": "Israel", "Company": "Infinidat", "Date Joined": "4/29/2015", "Industry": "Hardware", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 108, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, Index Ventures, Insight Venture Partners", "Country": "France", "Company": "BlaBlaCar", "Date Joined": "9/16/2015", "Industry": "On-Demand", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 109, "_index": "unicorn"}}
+{"Select Investors": "China Continent Property & Casualty Insurance, China Renaissance Capital Investment, China Taiping Life Insurance", "Country": "China", "Company": "Beijing LaKala Billing Services", "Date Joined": "6/23/2015", "Industry": "Fintech", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 110, "_index": "unicorn"}}
+{"Select Investors": "Y Combinator, Union Square Ventures, DFJ Growth", "Country": "United States", "Company": "Coinbase", "Date Joined": "8/10/2017", "Industry": "Fintech", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 111, "_index": "unicorn"}}
+{"Select Investors": "People Electrical Appliance Group China, Zhongrong International Trust", "Country": "China", "Company": "CAOCAO", "Date Joined": "1/17/2018", "Industry": "On Demand", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 112, "_index": "unicorn"}}
+{"Select Investors": "Qiming Venture Partners, Goldman Sachs, Hillhouse Capital Management", "Country": "China", "Company": "Gan & Lee Pharmaceuticals", "Date Joined": "11/1/2014", "Industry": "Biotechnology ", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 113, "_index": "unicorn"}}
+{"Select Investors": "IA Ventures, Index Ventures, SV Angel", "Country": "United Kingdom", "Company": "TransferWise", "Date Joined": "1/26/2015", "Industry": "Fintech", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 114, "_index": "unicorn"}}
+{"Select Investors": "Delphi Automotive, Samsung Ventures, Motus Ventures", "Country": "United States", "Company": "Quanergy Systems", "Date Joined": "8/24/2016", "Industry": "Auto Tech", "Valuation ($B)": "1.59"}
+{"index": {"_type": "default", "_id": 115, "_index": "unicorn"}}
+{"Select Investors": "IFC, Ajinomoto", "Country": "South Africa", "Company": "Promasidor Holdings", "Date Joined": "11/8/2016", "Industry": "Food and Beverage", "Valuation ($B)": "1.58"}
+{"index": {"_type": "default", "_id": 116, "_index": "unicorn"}}
+{"Select Investors": "Illumina, Invesco Perpetual, IP Group", "Country": "United Kingdom", "Company": "Oxford Nanopore Technologies", "Date Joined": "7/21/2015", "Industry": "Healthcare", "Valuation ($B)": "1.55"}
+{"index": {"_type": "default", "_id": 117, "_index": "unicorn"}}
+{"Select Investors": "CMB International Capital, Nanshan Capital, Tencent Holdings", "Country": "China", "Company": "DouyuTV", "Date Joined": "11/20/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1.51"}
+{"index": {"_type": "default", "_id": 118, "_index": "unicorn"}}
+{"Select Investors": "Tencent, TPG Growth, Hony Capital", "Country": "United States", "Company": "STX Entertainment", "Date Joined": "8/10/2016", "Industry": "Entertainment", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 119, "_index": "unicorn"}}
+{"Select Investors": "Tencent, Morningside Group", "Country": "China", "Company": "GuaHao (We Doctor)", "Date Joined": "9/22/2015", "Industry": "Healthcare", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 120, "_index": "unicorn"}}
+{"Select Investors": "GGV Capital, QiMing Venture Partnersl", "Country": "China", "Company": "Tujia", "Date Joined": "6/17/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 121, "_index": "unicorn"}}
+{"Select Investors": "Access Industries, Clal Industries and Investments", "Country": "Israel", "Company": "ironSource", "Date Joined": "8/11/2014", "Industry": "Mobile Software & Services", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 122, "_index": "unicorn"}}
+{"Select Investors": "Google Ventures, New Enterprise Associates, MPM Capital", "Country": "United States", "Company": "23andMe", "Date Joined": "7/3/2015", "Industry": "Healthcare", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 123, "_index": "unicorn"}}
+{"Select Investors": "Redpoint Ventures,Iconiq Capital, Madrona Venture Group", "Country": "United States", "Company": "Snowflake Computing", "Date Joined": "1/25/2018", "Industry": "Internet Software & Services", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 124, "_index": "unicorn"}}
+{"Select Investors": "Benchmark Capital, DAG Ventures, Insight Venture Partners", "Country": "United States", "Company": "Nextdoor", "Date Joined": "3/4/2015", "Industry": "Social", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 125, "_index": "unicorn"}}
+{"Select Investors": "Morningside Ventures, JD.com, Tiantu Capital", "Country": "China", "Company": "Aihuishou", "Date Joined": "7/12/2018", "Industry": "Marketplace", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 126, "_index": "unicorn"}}
+{"Select Investors": "Accel, Tiger Global Management, capitalG", "Country": "United States", "Company": "Freshworks", "Date Joined": "7/31/2018", "Industry": "Internet Software & Services", "Valuation ($B)": "1.5"}
+{"index": {"_type": "default", "_id": 127, "_index": "unicorn"}}
+{"Select Investors": "Ant Financial Services Group, GGV Capital", "Country": "China", "Company": "Hellobike", "Date Joined": "6/01/2018", "Industry": "Travel", "Valuation ($B)": "1.46"}
+{"index": {"_type": "default", "_id": 128, "_index": "unicorn"}}
+{"Select Investors": "Beihai Hongtai Investment, China Minsheng Investment, Yisheng Innovation", "Country": "China", "Company": "Tuandaiwang", "Date Joined": "5/30/2017", "Industry": "Fintech", "Valuation ($B)": "1.46"}
+{"index": {"_type": "default", "_id": 129, "_index": "unicorn"}}
+{"Select Investors": "Baidu, Tencent Holdings", "Country": "China", "Company": "Coocaa", "Date Joined": "3/16/2018", "Industry": "Consumer Hardware", "Valuation ($B)": "1.45"}
+{"index": {"_type": "default", "_id": 130, "_index": "unicorn"}}
+{"Select Investors": "Volkswagen, Access Industries, Vostok New Ventures", "Country": "Israel", "Company": "Gett", "Date Joined": "6/7/2018", "Industry": "On-demand", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 131, "_index": "unicorn"}}
+{"Select Investors": "Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund", "Country": "China", "Company": "CGTZ", "Date Joined": "2/21/2017", "Industry": "Fintech", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 132, "_index": "unicorn"}}
+{"Select Investors": "New Enterprise Associates, Tiger Global management, Tencent", "Country": "China", "Company": "Koudai Gouwu", "Date Joined": "10/23/2014", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 133, "_index": "unicorn"}}
+{"Select Investors": "Temasek Holdings, Charlotte Angel Partners, TPG Growth", "Country": "United States", "Company": "AvidXchange", "Date Joined": "6/8/2017", "Industry": "Fintech", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 134, "_index": "unicorn"}}
+{"Select Investors": "Foxconn, Tiger Global management, Tencent", "Country": "India", "Company": "Hike", "Date Joined": "8/16/2016", "Industry": "Social", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 135, "_index": "unicorn"}}
+{"Select Investors": "Makena Capital Management, TPG Growth, Breyer Capital", "Country": "United States", "Company": "C3 IoT", "Date Joined": "3/2/2017", "Industry": "IoT", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 136, "_index": "unicorn"}}
+{"Select Investors": "Orient Hontai Capital, Webb Investment Network", "Country": "United States", "Company": "AppLovin", "Date Joined": "1/1/2017", "Industry": "Adtech", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 137, "_index": "unicorn"}}
+{"Select Investors": "Shasta Ventures, Granite Ventures, DFJ Growth Fund", "Country": "United States", "Company": "Anaplan", "Date Joined": "1/14/2016", "Industry": "Internet Software & Services", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 138, "_index": "unicorn"}}
+{"Select Investors": "Bessemer Venture Partners, Tiger Global Management, Google Ventures", "Country": "United States", "Company": "Toast", "Date Joined": "7/10/2018", "Industry": "Restaurant Tech", "Valuation ($B)": "1.4"}
+{"index": {"_type": "default", "_id": 139, "_index": "unicorn"}}
+{"Select Investors": "Accomplice, GGV Capital, Redpoint Ventures", "Country": "United States", "Company": "DraftKings", "Date Joined": "7/26/2015", "Industry": "Internet Software & Services", "Valuation ($B)": "1.35"}
+{"index": {"_type": "default", "_id": 140, "_index": "unicorn"}}
+{"Select Investors": "Andreessen Horowitz, Harrison Metal, T. Rowe Price", "Country": "United States", "Company": "PagerDuty", "Date Joined": "9/6/2018", "Industry": "Internet Software & Services", "Valuation ($B)": "1.3"}
+{"index": {"_type": "default", "_id": 141, "_index": "unicorn"}}
+{"Select Investors": "Greylock Partners, Lightspeed Venture Partners, Khosla Ventures", "Country": "United States", "Company": "Rubrik", "Date Joined": "4/28/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1.3"}
+{"index": {"_type": "default", "_id": 142, "_index": "unicorn"}}
+{"Select Investors": "GSO Capital Partners, Franklin Square", "Country": "United States", "Company": "Zeta Interactive", "Date Joined": "7/15/2015", "Industry": "Internet Software & Services", "Valuation ($B)": "1.3"}
+{"index": {"_type": "default", "_id": 143, "_index": "unicorn"}}
+{"Select Investors": "True Ventures, Tiger Global Management, L Catterton", "Country": "United States", "Company": "Peloton Interactive", "Date Joined": "5/24/2017", "Industry": "Fitness", "Valuation ($B)": "1.3"}
+{"index": {"_type": "default", "_id": 144, "_index": "unicorn"}}
+{"Select Investors": "Greylock Partners, Lightspeed Venture Partners, Lowercase Capital", "Country": "United States", "Company": "Docker", "Date Joined": "4/14/2015", "Industry": "Internet Software & Services", "Valuation ($B)": "1.3"}
+{"index": {"_type": "default", "_id": 145, "_index": "unicorn"}}
+{"Select Investors": "Accel India, SAIF Partners, Norwest Venture Partners", "Country": "India", "Company": "Swiggy", "Date Joined": "6/21/2018", "Industry": "On-demand", "Valuation ($B)": "1.3"}
+{"index": {"_type": "default", "_id": 146, "_index": "unicorn"}}
+{"Select Investors": "Social Capital, Bessemer Venture Partners", "Country": "United States", "Company": "Intercom", "Date Joined": "3/27/2018", "Industry": "Sales Tech", "Valuation ($B)": "1.27"}
+{"index": {"_type": "default", "_id": 147, "_index": "unicorn"}}
+{"Select Investors": "Toscafund Asset Management, Woodford Investment Management, BBVA", "Country": "United Kingdom", "Company": "Atom Bank", "Date Joined": "3/7/2018", "Industry": "Fintech", "Valuation ($B)": "1.25"}
+{"index": {"_type": "default", "_id": 148, "_index": "unicorn"}}
+{"Select Investors": "Tiger Global, Sequoia Capital, Google Capital", "Country": "United States", "Company": "Thumbtack", "Date Joined": "9/29/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 149, "_index": "unicorn"}}
+{"Select Investors": "Stone Point Capital, Google Capital", "Country": "United States", "Company": "Ten-X", "Date Joined": "3/5/2014", "Industry": "Internet Software & Services", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 150, "_index": "unicorn"}}
+{"Select Investors": "Google Ventures, Sequoia Capital, First Round Capital", "Country": "United States", "Company": "Clover Health", "Date Joined": "5/10/2017", "Industry": "Healthcare", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 151, "_index": "unicorn"}}
+{"Select Investors": "Khosla Ventures, Technology Crossover Ventures, Tribeca Venture Partners", "Country": "United States", "Company": "Appnexus", "Date Joined": "8/18/2014", "Industry": "Adtech", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 152, "_index": "unicorn"}}
+{"Select Investors": "BoxGroup, Felicis Ventures, First Round Capital", "Country": "United States", "Company": "Warby Parker", "Date Joined": "4/30/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 153, "_index": "unicorn"}}
+{"Select Investors": "Celgene, GE Ventures, Draper Fisher Jurvetson", "Country": "United States", "Company": "Human Longevity", "Date Joined": "4/5/2016", "Industry": "Healthcare", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 154, "_index": "unicorn"}}
+{"Select Investors": "Andreessen Horowitz, GGV Capital, T. Rowe Price", "Country": "United States", "Company": "OfferUp", "Date Joined": "9/8/2016", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 155, "_index": "unicorn"}}
+{"Select Investors": "STC Ventures, Al Tayyar Travel Group, Wamda Capital", "Country": "United Arab Emirates", "Company": "Careem Networks", "Date Joined": "12/18/2016", "Industry": "On Demand", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 156, "_index": "unicorn"}}
+{"Select Investors": "Founders Fund, Matrix Partners, Tiger Global Management", "Country": "United States", "Company": "Postmates", "Date Joined": "9/18/2018", "Industry": "On Demand", "Valuation ($B)": "1.2"}
+{"index": {"_type": "default", "_id": 157, "_index": "unicorn"}}
+{"Select Investors": "BlueCross BlueShield Venture Partners, US Venture Partners", "Country": "United States", "Company": "HeartFlow", "Date Joined": "12/4/2017", "Industry": "Digital Health", "Valuation ($B)": "1.19"}
+{"index": {"_type": "default", "_id": 158, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, Qiming Venture Partners, Tencent Holdings", "Country": "China", "Company": "Logical Thinking (Luojisiwei)", "Date Joined": "7/20/2017", "Industry": "Ed Tech", "Valuation ($B)": "1.17"}
+{"index": {"_type": "default", "_id": 159, "_index": "unicorn"}}
+{"Select Investors": "Insight Venture Partners, Lowercase Capital, Polaris Partners", "Country": "United States", "Company": "Automattic", "Date Joined": "5/27/2013", "Industry": "Internet Software & Services", "Valuation ($B)": "1.16"}
+{"index": {"_type": "default", "_id": 160, "_index": "unicorn"}}
+{"Select Investors": " China International Capital Corporation, Hunan TV & Broadcast Intermediary, Shanghai Media Group", "Country": "China", "Company": "NetEase Cloud Music", "Date Joined": "4/11/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1.16"}
+{"index": {"_type": "default", "_id": 161, "_index": "unicorn"}}
+{"Select Investors": "Advent International", "Country": "Colombia", "Company": "LIfeMiles", "Date Joined": "7/13/2015", "Industry": "Business Products & Services", "Valuation ($B)": "1.15"}
+{"index": {"_type": "default", "_id": 162, "_index": "unicorn"}}
+{"Select Investors": "Access Industries, Rocket Internet, Tengelmann Ventures", "Country": "Luxembourg", "Company": "Global Fashion Group", "Date Joined": "4/8/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 163, "_index": "unicorn"}}
+{"Select Investors": "Nexus Venture Partners, GIC Special Investments, Tiger Global Management", "Country": "India", "Company": "Shopclues", "Date Joined": "1/12/2016", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 164, "_index": "unicorn"}}
+{"Select Investors": "Novartis, Essex Woodlands, The Carlyle Group", "Country": "United States", "Company": "Proteus Digital Health", "Date Joined": "6/2/2014", "Industry": "Healthcare", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 165, "_index": "unicorn"}}
+{"Select Investors": "Greylock Partners, North Bridge Venture Partners, Technology Crossover Ventures", "Country": "United States", "Company": "Actifio", "Date Joined": "3/24/2014", "Industry": "Big Data", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 166, "_index": "unicorn"}}
+{"Select Investors": "Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group", "Country": "United States", "Company": "TangoMe", "Date Joined": "3/20/2014", "Industry": "Social", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 167, "_index": "unicorn"}}
+{"Select Investors": "Qiming Venture Partners, Yaxia Automobile, Far East Horizon", "Country": "China", "Company": "Tuhu", "Date Joined": "12/2/2017", "Industry": "Auto Tech", "Valuation ($B)": "1.16"}
+{"index": {"_type": "default", "_id": 168, "_index": "unicorn"}}
+{"Select Investors": "Kohlberg Kravis Roberts & Co.,TowerBrook Capital Partners", "Country": "France", "Company": "OVH", "Date Joined": "7/3/2015", "Industry": "Big Data", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 169, "_index": "unicorn"}}
+{"Select Investors": "Notion Capital, Scentan Ventures, Kite Ventures", "Country": "United States", "Company": "Tradeshift", "Date Joined": "5/30/2018", "Industry": "Fintech / Supply Chain", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 170, "_index": "unicorn"}}
+{"Select Investors": "Andreessen Horowitz, Coatue Management, Uber", "Country": "United States", "Company": "Lime", "Date Joined": "7/9/2018", "Industry": "Travel", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 171, "_index": "unicorn"}}
+{"Select Investors": "Google Ventures, ICONIQ Capital, Khosla Ventures", "Country": "United States", "Company": "GitLab", "Date Joined": "9/19/2018", "Industry": "DevOps", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 172, "_index": "unicorn"}}
+{"Select Investors": "Source Code Capital, Meituan Dianping, Tencent Holdings", "Country": "China", "Company": "Yijiupi (\u6613\u4e45\u6279)", "Date Joined": "9/20/2018", "Industry": "e-commerce", "Valuation ($B)": "1.1"}
+{"index": {"_type": "default", "_id": 173, "_index": "unicorn"}}
+{"Select Investors": "Inflexion Private Equity", "Country": "United Kingdom", "Company": "Radius Payments Solutions", "Date Joined": "11/27/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1.07"}
+{"index": {"_type": "default", "_id": 174, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, Rich Land Capital, Merrysunny Wealth", "Country": "China", "Company": "Jiuxian", "Date Joined": "7/30/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.05"}
+{"index": {"_type": "default", "_id": 175, "_index": "unicorn"}}
+{"Select Investors": "AXA", "Country": "Nigeria", "Company": "Jumia", "Date Joined": "2/8/2016", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1.04"}
+{"index": {"_type": "default", "_id": 176, "_index": "unicorn"}}
+{"Select Investors": "Mithril, iNovia Capital, Foundry Group", "Country": "United States", "Company": "AppDirect", "Date Joined": "10/7/2015", "Industry": "Internet Software & Services", "Valuation ($B)": "1.04"}
+{"index": {"_type": "default", "_id": 177, "_index": "unicorn"}}
+{"Select Investors": "Warbug Pincus", "Country": "Switzerland", "Company": "Avaloq Group", "Date Joined": "3/22/2017", "Industry": "Fintech", "Valuation ($B)": "1.01"}
+{"index": {"_type": "default", "_id": 178, "_index": "unicorn"}}
+{"Select Investors": "GSR Ventures, Matrix Partners China, Didi Chuxing", "Country": "China", "Company": "Ofo", "Date Joined": "3/1/2017", "Industry": "On Demand", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 179, "_index": "unicorn"}}
+{"Select Investors": "Foxconn Technology Company, Khosla Ventures, Moore Capital Management", "Country": "United States", "Company": "Katerra", "Date Joined": "4/13/2017", "Industry": "Construction Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 180, "_index": "unicorn"}}
+{"Select Investors": "Tencent Holdings, Warbug Pincus, IDG Capital", "Country": "China", "Company": "Yuanfudao", "Date Joined": "5/31/2017", "Industry": "Edtech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 181, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures", "Country": "China", "Company": "Yixia", "Date Joined": "11/24/2015", "Industry": "Social", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 182, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital", "Country": "United States", "Company": "Medallia", "Date Joined": "7/21/2015", "Industry": "Internet Software & Services", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 183, "_index": "unicorn"}}
+{"Select Investors": "Redpoint Ventures, QiMing Venture Partners, Chengwei Capital", "Country": "China", "Company": "Apus Group", "Date Joined": "1/16/2015", "Industry": "Mobile Software & Services", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 184, "_index": "unicorn"}}
+{"Select Investors": "New Enterprise Associates, Pelion Venture Partners, Union Square Ventures", "Country": "United States", "Company": "CloudFlare", "Date Joined": "12/1/2012", "Industry": "Cybersecurity", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 185, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, Greylock Partners, Lowercase Capital", "Country": "United States", "Company": "Lookout", "Date Joined": "8/13/2014", "Industry": "Cybersecurity", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 186, "_index": "unicorn"}}
+{"Select Investors": "QiMing Venture Partners, Steam boat Ventures", "Country": "China", "Company": "Fanli", "Date Joined": "4/20/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 187, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital, VY Capital", "Country": "India", "Company": "Zomato Media", "Date Joined": "4/10/2015", "Industry": "Social", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 188, "_index": "unicorn"}}
+{"Select Investors": "Matrix Partners, Passport Capital, Rho Ventures", "Country": "United States", "Company": "TechStyle Fashion Group", "Date Joined": "8/29/2014", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 189, "_index": "unicorn"}}
+{"Select Investors": "Australian Future Fund, GE Ventures, Data Collective", "Country": "United States", "Company": "Desktop Metal", "Date Joined": "7/17/2017", "Industry": "3D Printing", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 190, "_index": "unicorn"}}
+{"Select Investors": "Data Collective, Formation 8, General Catalyst Partners", "Country": "United States", "Company": "Illumio", "Date Joined": "4/14/2014", "Industry": "Cybersecurity", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 191, "_index": "unicorn"}}
+{"Select Investors": "Banyan Capital, New Horizon Capital, IDG Capital Partners", "Country": "China", "Company": "BeiBei", "Date Joined": "1/22/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 192, "_index": "unicorn"}}
+{"Select Investors": "WI Harper Group, Fang Fund Partners, NewMarging Ventures", "Country": "China", "Company": "Panshi", "Date Joined": "5/5/2015", "Industry": "Adtech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 193, "_index": "unicorn"}}
+{"Select Investors": "Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures", "Country": "India", "Company": "InMobi", "Date Joined": "12/2/2014", "Industry": "Adtech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 194, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital, Tenaya Capital, Northgate Capital", "Country": "United States", "Company": "MarkLogic", "Date Joined": "5/12/2015", "Industry": "Big Data", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 195, "_index": "unicorn"}}
+{"Select Investors": "K2 Ventures, Matrix Partners China, IDG Capital", "Country": "China", "Company": "Zhaogang", "Date Joined": "6/29/2017", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 196, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, Comcast Ventures, General Atlantic", "Country": "United States", "Company": "Vox Media", "Date Joined": "8/12/2015", "Industry": "Media", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 197, "_index": "unicorn"}}
+{"Select Investors": "Union Square Ventures, RRE Ventures, Spark Capital", "Country": "Canada", "Company": "Kik Interactive", "Date Joined": "8/18/2015", "Industry": "Social", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 198, "_index": "unicorn"}}
+{"Select Investors": "Accel Partners, FJ Labs, Insight Venture Partners", "Country": "Netherlands", "Company": "letgo", "Date Joined": "9/28/2017", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 199, "_index": "unicorn"}}
+{"Select Investors": "BlueRun Ventures, SV Angel, Mohr Davidow Ventures", "Country": "United States", "Company": "Kabbage", "Date Joined": "10/14/2015", "Industry": "Fintech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 200, "_index": "unicorn"}}
+{"Select Investors": "QiMing Venture Partners, Temasek Holdings, Silverlink Capital", "Country": "China", "Company": "iTutorGroup", "Date Joined": "11/18/2015", "Industry": "Ed Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 201, "_index": "unicorn"}}
+{"Select Investors": "General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers", "Country": "United States", "Company": "Gusto", "Date Joined": "12/18/2015", "Industry": "Fintech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 202, "_index": "unicorn"}}
+{"Select Investors": "Alibaba Group, China Everbright Investment Management, Yinxinggu Capital", "Country": "China", "Company": "Dt Dream", "Date Joined": "6/8/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 203, "_index": "unicorn"}}
+{"Select Investors": "Blue Label Telecoms, Net1 UEPS Technologies", "Country": "South Africa", "Company": "Cell C", "Date Joined": "8/8/2017", "Industry": "Telecommunications", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 204, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, ZhenFund, K2 Ventures", "Country": "China", "Company": "Mia.com", "Date Joined": "9/8/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 205, "_index": "unicorn"}}
+{"Select Investors": "Tencent, Vcanbio", "Country": "China", "Company": "iCarbonX", "Date Joined": "4/12/2016", "Industry": "Healthcare", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 206, "_index": "unicorn"}}
+{"Select Investors": "BNP Paribas, Goldman Sachs, Google", "Country": "United States", "Company": "Symphony Communication Services Holdings", "Date Joined": "5/16/2017", "Industry": "Fintech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 207, "_index": "unicorn"}}
+{"Select Investors": "Iconiq Capital", "Country": "United States", "Company": "Age of Learning", "Date Joined": "5/3/2016", "Industry": "Edtech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 208, "_index": "unicorn"}}
+{"Select Investors": "Brand Capital, Tiger Global Management, Kinnevik", "Country": "India", "Company": "Quikr", "Date Joined": "4/7/2015", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 209, "_index": "unicorn"}}
+{"Select Investors": "Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital", "Country": "United States", "Company": "SMS Assist", "Date Joined": "6/13/2016", "Industry": "Internet Software & Services", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 210, "_index": "unicorn"}}
+{"Select Investors": "Woodford Investment Management", "Country": "United Kingdom", "Company": "benevolent.ai ", "Date Joined": "6/2/2015", "Industry": "Healthcare", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 211, "_index": "unicorn"}}
+{"Select Investors": "Warburg Pincus, Aviation Industry Corporation of China", "Country": "China", "Company": "Mofang Gongyu", "Date Joined": "4/13/2016", "Industry": "Facilities", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 212, "_index": "unicorn"}}
+{"Select Investors": "Illumina, Celgene, Casdin Capital", "Country": "United States", "Company": "Adaptive Biotechnologies", "Date Joined": "1/8/2015", "Industry": "Healthcare", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 213, "_index": "unicorn"}}
+{"Select Investors": "China Minsheng Investment, Baidu, Wanxin Media", "Country": "China", "Company": "HuJiang", "Date Joined": "10/29/2015", "Industry": "Edtech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 214, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, GX Capital", "Country": "China", "Company": "Guazi (Chehaoduo)", "Date Joined": "3/12/2016", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 215, "_index": "unicorn"}}
+{"Select Investors": "Goldman Sachs, Leonardo DiCaprio, Promecap ", "Country": "United States", "Company": "Rubicon Global", "Date Joined": "8/25/2017", "Industry": "Cleantech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 216, "_index": "unicorn"}}
+{"Select Investors": "Co-Energy Finance, Grandland", "Country": "China", "Company": "YH Global", "Date Joined": "9/21/2017", "Industry": "Supplychain/ logistics", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 217, "_index": "unicorn"}}
+{"Select Investors": "Khosla Ventures, Fairhaven Capital, In-Q-Tel", "Country": "United States", "Company": "Cylance", "Date Joined": "6/8/2016", "Industry": "Cybersecurity", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 218, "_index": "unicorn"}}
+{"Select Investors": "Lockheed Martin, Khosla Ventures, Bessemer Venture Partners", "Country": "United States", "Company": "Rocket Lab", "Date Joined": "3/21/2017", "Industry": "SpaceTech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 219, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital, Qualcomm Ventures, Emergence Capital Partners", "Country": "United States", "Company": "Zoom Communications", "Date Joined": "1/17/2017", "Industry": "Internet Software & Services", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 220, "_index": "unicorn"}}
+{"Select Investors": "Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.", "Country": "China", "Company": "Tongdun Technology", "Date Joined": "10/10/2017", "Industry": "Cybersecurity", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 221, "_index": "unicorn"}}
+{"Select Investors": "The Carlyle Group", "Country": "United States", "Company": "Supreme", "Date Joined": "10/9/2017", "Industry": "Clothing & Accessories", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 222, "_index": "unicorn"}}
+{"Select Investors": "Phoenix New Media", "Country": "United States", "Company": "Particle", "Date Joined": "10/17/2017", "Industry": "Digital Media", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 223, "_index": "unicorn"}}
+{"Select Investors": "Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company", "Country": "China", "Company": "Face++ (Megvii)", "Date Joined": "10/31/2017", "Industry": "AI / Facial Recognition", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 224, "_index": "unicorn"}}
+{"Select Investors": "Morningside Ventures, Capital Today, JOY Capital", "Country": "China", "Company": " XiaoZhu ", "Date Joined": "11/1/2017", "Industry": "eCommerce/Marketplace", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 225, "_index": "unicorn"}}
+{"Select Investors": "Y Combinator, Data Collective, MassVentures", "Country": "United States", "Company": " Ginkgo BioWorks", "Date Joined": "12/14/2017", "Industry": "Biotechnology", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 226, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, Blackbird Ventures, Matrix Partners", "Country": "Australia", "Company": "Canva", "Date Joined": "01/08/2018", "Industry": "Collaboration & Project Management", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 227, "_index": "unicorn"}}
+{"Select Investors": "Intel Capital, Aviv Venture Capital", "Country": "Israel", "Company": "OrCam Technologies", "Date Joined": "02/21/2018", "Industry": "Consumer Electronics", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 228, "_index": "unicorn"}}
+{"Select Investors": "DST Global, Temasek Holdings", "Country": "China", "Company": "17zuoye ", "Date Joined": "03/7/2018", "Industry": "EdTech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 229, "_index": "unicorn"}}
+{"Select Investors": "Tencent Holdings, DCM Ventures", "Country": "China", "Company": "Ding Xiang Yuan ", "Date Joined": "04/10/2018", "Industry": "Digital Health", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 230, "_index": "unicorn"}}
+{"Select Investors": "Tencent Holdings, Walden Venture Capital, Global Catalyst Partnera", "Country": "United States", "Company": "Soundhound", "Date Joined": "05/03/2018", "Industry": "Music", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 231, "_index": "unicorn"}}
+{"Select Investors": "Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.", "Country": "China", "Company": "Huike Group (Uniquedu Corporation)", "Date Joined": "05/24/2018", "Industry": "HR Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 232, "_index": "unicorn"}}
+{"Select Investors": "Legend Capital, CDH Investments, Sequoia Capital China", "Country": "China", "Company": "JOLLY Information Technology", "Date Joined": "05/29/2018", "Industry": "ecommerce", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 233, "_index": "unicorn"}}
+{"Select Investors": "Tusk Ventures, Craft Ventures, Sequoia Capital", "Country": "United States", "Company": "Bird Rides", "Date Joined": "05/29/2018", "Industry": "Travel", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 234, "_index": "unicorn"}}
+{"Select Investors": "Didi Chuxing, Diamler, TMT Investments", "Country": "Estonia", "Company": "taxify", "Date Joined": "05/30/2018", "Industry": "On-demand", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 235, "_index": "unicorn"}}
+{"Select Investors": "DST Global, Sequoia Capital China", "Country": "China", "Company": "New Dada", "Date Joined": "12/31/2015", "Industry": "Supply Chain Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 236, "_index": "unicorn"}}
+{"Select Investors": "JOY Capital, Lu Zhengyao", "Country": "China", "Company": "luckin coffee", "Date Joined": "6/13/2018", "Industry": "Food & Beverage", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 237, "_index": "unicorn"}}
+{"Select Investors": "Info Edge, Softbank Capital", "Country": "India", "Company": "PolicyBazaar", "Date Joined": "6/25/2018", "Industry": "Fintech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 238, "_index": "unicorn"}}
+{"Select Investors": "Accel, 83North", "Country": "Germany", "Company": "Celonis", "Date Joined": "6/26/2018", "Industry": "BI & Analytics", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 239, "_index": "unicorn"}}
+{"Select Investors": "Venrock, Institutional Venture Partners, Goldman Sachs", "Country": "United States", "Company": "Dataminr", "Date Joined": "6/4/2018", "Industry": "BI & Analytics", "Valuation ($B)": "1.6"}
+{"index": {"_type": "default", "_id": 240, "_index": "unicorn"}}
+{"Select Investors": "China Cinda Asset Management, IDG Capital", "Country": "China", "Company": "9f Group", "Date Joined": "4/14/2015", "Industry": "Fintech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 241, "_index": "unicorn"}}
+{"Select Investors": "KKR, ES Ventures, North Bridge Growth Equity", "Country": "Portugal", "Company": "OutSystems", "Date Joined": "6/5/2018", "Industry": "DevOps", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 242, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, IDG Capital, DCM Ventures", "Country": "United States", "Company": "Pony.ai", "Date Joined": "7/11/2018", "Industry": "AutoTech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 243, "_index": "unicorn"}}
+{"Select Investors": "Silicon Valley Bank, QED Investors, European Founders Fund", "Country": "United States", "Company": "MediaMath", "Date Joined": "7/10/2018", "Industry": "AdTech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 244, "_index": "unicorn"}}
+{"Select Investors": "ZhenFund, China Renaissance, CreditEase Fintech Investment Fund", "Country": "China", "Company": "Tiger Brokers", "Date Joined": "7/11/2018", "Industry": "Fintech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 245, "_index": "unicorn"}}
+{"Select Investors": "German Media Pool, Seven Venture Capital", "Country": "Germany", "Company": "About You", "Date Joined": "7/19/2018", "Industry": "eCommerce", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 246, "_index": "unicorn"}}
+{"Select Investors": "K2 Global, 500 Startups", "Country": "Philippines", "Company": "Revolution Precrafted", "Date Joined": "10/23/2017", "Industry": "Construction Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 247, "_index": "unicorn"}}
+{"Select Investors": "Sequoia Capital China, Goldman Sachs, Matrix Partners China", "Country": "Hong Kong", "Company": "Klook", "Date Joined": "8/7/2018", "Industry": "Travel Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 248, "_index": "unicorn"}}
+{"Select Investors": "Silver Lake Partners, SV Angel, Upfront Ventures", "Country": "United States", "Company": "GoodRx", "Date Joined": "8/6/2018", "Industry": "Travel Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 249, "_index": "unicorn"}}
+{"Select Investors": "500 Startups, Batavia Incubator, Emtek Group", "Country": "Indonesia", "Company": "Bukalapak", "Date Joined": "11/16/2017", "Industry": "eCommerce", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 250, "_index": "unicorn"}}
+{"Select Investors": "Tiger Global Management, Ribbit Capital, Redpoint Ventures", "Country": "United States", "Company": "Root Insurance", "Date Joined": "8/22/2018", "Industry": "InsurTech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 251, "_index": "unicorn"}}
+{"Select Investors": "SoftBank Group, Sequoia Capital, Wing Venture Capital", "Country": "United States", "Company": "Cohesity", "Date Joined": "6/11/2018", "Industry": "Data Storage", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 252, "_index": "unicorn"}}
+{"Select Investors": "Prometheus Capital, Matrix Partners China, JD Capital Management", "Country": "China", "Company": "Shansong Express (FlashEx)", "Date Joined": "8/27/2018", "Industry": "Supply Chain & Logistics", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 253, "_index": "unicorn"}}
+{"Select Investors": "Tencent Holdings, Lightsepeed India Partners, Sequoia Capital India", "Country": "India", "Company": "BYJU'S", "Date Joined": "8/27/2018", "Industry": "Ed Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 254, "_index": "unicorn"}}
+{"Select Investors": "DST Global, Lightspeed Venture Partners, Microsoft ScaleUp", "Country": "India", "Company": "Udaan", "Date Joined": "9/3/2018", "Industry": "e-commerce", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 255, "_index": "unicorn"}}
+{"Select Investors": "DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures", "Country": "Colombia", "Company": "Rappi", "Date Joined": "8/31/2018", "Industry": "On-demand", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 256, "_index": "unicorn"}}
+{"Select Investors": "Orchid Asia Group Management, Russia-China Investment Fund, Matrix Partners China", "Country": "China", "Company": "Xinyang Technology (SoYoung)", "Date Joined": "9/4/2018", "Industry": "e-commerce", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 257, "_index": "unicorn"}}
+{"Select Investors": "Atlos Ventures, Index Ventures, First Round Capital", "Country": "United States", "Company": "Roblox", "Date Joined": "9/4/2018", "Industry": "Gaming", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 258, "_index": "unicorn"}}
+{"Select Investors": "Tiantu Capital, Fortune Capital, Zhenghedao Fund", "Country": "China", "Company": "Aijia Life", "Date Joined": "9/17/2018", "Industry": "Construction Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 259, "_index": "unicorn"}}
+{"Select Investors": "Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund", "Country": "China", "Company": "Nxin (\u519c\u4fe1\u4e92\u8054)", "Date Joined": "9/18/2018", "Industry": "Ag Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 260, "_index": "unicorn"}}
+{"Select Investors": "Gemini Israel Ventures, Insight Venture Partners, Giza Venture Capital", "Country": "United States", "Company": "WalkMe", "Date Joined": "9/20/2018", "Industry": "Sales Tech", "Valuation ($B)": "1"}
+{"index": {"_type": "default", "_id": 261, "_index": "unicorn"}}
+{"Select Investors": "Greylock Partners, capitalG, Y Combinator", "Country": "United States", "Company": "Convoy", "Date Joined": "9/21/2018", "Industry": "Supply Chain", "Valuation ($B)": "1"}
+>>>>>>> 69905658ef91f28f5fdf2272f9b743c77fd12365
